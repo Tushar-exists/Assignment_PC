@@ -100,7 +100,7 @@ export default function SavedNotesList() {
         // Empty state message (only shown if there's no error)
         !error && (
           <p className="text-gray-500 dark:text-gray-400">
-            You haven't saved any notes yet. Write a note above and click "Save Note" to get started!
+            You have not saved any notes yet. Write a note above and click Save Note to get started!
           </p>
         )
       )}

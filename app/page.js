@@ -56,7 +56,7 @@ export default function LandingPage() {
             </div>
           </div>
           <div className="p-4 text-sm text-gray-700 dark:text-gray-300">
-            <p>Today's discussion centered on the Q3 marketing strategy. Key takeaways include a focus on social media engagement and a new content series...</p>
+            <p>Today&apos;s discussion centered on the Q3 marketing strategy. Key takeaways include a focus on social media engagement and a new content series...</p>
           </div>
         </div>
 
@@ -112,7 +112,7 @@ export default function LandingPage() {
               AI-Powered Note Refinement
             </h3>
             <p className="text-lg text-orange-700 dark:text-slate-400">
-              Overcome writer's block and improve your text. Our AI, powered by LangChain, will refine your note for better clarity, tone, and style.
+              Overcome writer&apos;s block and improve your text. Our AI, powered by LangChain, will refine your note for better clarity, tone, and style.
             </p>
           </div>
           <div className="space-y-4 bg-white dark:bg-slate-900 dark:border-slate-800 rounded-2xl shadow-xl p-6 border border-orange-100 text-sm">

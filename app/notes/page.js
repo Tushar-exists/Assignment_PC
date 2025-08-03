@@ -109,7 +109,7 @@ export default function MyNotesPage() {
         </div>
       ) : (
         <p className="text-gray-500 dark:text-gray-400">
-          You haven't saved any notes yet.
+          You have not saved any notes yet.
         </p>
       )}
     </div>
